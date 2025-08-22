@@ -1,0 +1,27 @@
+{
+  "name": "linux-mcp",
+  "version": "1.0.0",
+  "description": "**Linux-MCP** ================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oryaacov/linux-mcp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oryaacov/linux-mcp/issues"
+  },
+  "homepage": "https://github.com/oryaacov/linux-mcp#readme",
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.4"
+  }
+}
